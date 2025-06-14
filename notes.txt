@@ -1,0 +1,13 @@
+Rahim has 1000tk. He went to market and purchased 5 eggs, 2 kitkat chocolate. 
+Price of each eggs 11tk, price of each chocolates 40tk. Find the remaining money.
+
+
+
+Rahim Have Total=1000 tk
+Buy Total egg= 5
+eachegg Price= 11
+Buy Total chocolate= 2
+eachchocolote Price= 40 tk
+
+
+
